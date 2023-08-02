@@ -34,7 +34,7 @@ Explores the dataset based on various features such as "Month of absence," "Day 
 Calculates the Pearson correlation of the features in the dataset.
 Generates visualizations for better insights into the data, including histograms, bar plots, and correlation matrices.
 Conclusion
-This analysis provides valuable insights into absenteeism patterns in the company and identifies potential factors that may contribute to extended absences. The visualizations and statistical information can help in understanding and addressing absenteeism-related challenges. If you have any questions or suggestions, feel free to reach out to the repository owner. Happy analyzing! 
+This analysis provides valuable insights into absenteeism patterns in the company and identifies potential factors that may contribute to extended absences. The visualizations and statistical information can help in understanding and addressing absenteeism-related challenges.
 
 # dataset
 The dataset used for this task was obtained from the UCI machine learning repository website archive.ics.edu/ml/datasets.php and is titled Absenteeism at work.
